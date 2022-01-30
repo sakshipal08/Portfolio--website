@@ -1,0 +1,169 @@
+
+.image{
+    height: 400px;
+    width: 380px;
+   margin-top: 8%;
+   margin-right: 3%;
+   
+   border-radius: 20px;
+   text-align: right;
+   
+}
+
+       
+
+
+.intro{
+    margin-left: 8%;
+    margin-top: 25%;
+    font-size: 25px;
+    color: rgb(143, 140, 138);
+}
+.intro h1{
+    font-size:50px;
+    color:rgb(24, 23, 21)
+}
+.container-child{
+    margin-top: 8%;
+    padding-top: 70px;
+    color: rgb(51, 38, 29);
+    font-size:30px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.body{
+    
+    background-image: linear-gradient(to right, #2c3e50, #4ca1af);
+
+    
+   background-size: 100% 100%;
+}
+.skill{
+    font-size: 60px;
+    
+    color: rgb(150, 134, 108);
+    padding-top: 40px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-shadow: 0px 0px 10px black;
+    justify-content: space-evenly;
+}
+.but{
+    font-size: 60px;
+    text-align: center;
+    justify-content: space-evenly;
+
+}
+.project{
+    text-align: center;
+    font-size: 80px;
+    padding-top: 40px;
+    margin-top: 4%;
+    padding-bottom: 20px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ text-shadow: 0px 0px 10px whitesmoke;
+ color: rgb(70, 64, 56);
+
+
+}
+.img-foot{
+    height: 400px;
+    width: 400px;
+    text-align: center;
+margin-top: 30px;
+padding-top: 4%;
+
+}
+.foot-intro{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(49, 40, 40);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.food{
+    text-align: center;
+    text-shadow: 0px 0px 10px whitesmoke;
+
+
+}
+.img-food{
+    height: 400px;
+    width: 400px;
+    margin-top: 30px;
+padding-top: 4%;
+}
+.food-intro{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(49, 40, 40);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.pizza{
+    text-align: center;
+    text-shadow: 0px 0px 10px whitesmoke;
+
+}
+.img-pizza{
+    height: 400px;
+    width: 400px;
+    text-align: center;
+margin-top: 30px;
+padding-top: 4%;
+
+
+}
+.pizza-intro{  
+      font-size: 30px;
+    text-align: center;
+    color: rgb(49, 40, 40);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+
+}
+.resume{
+    padding-top: 4%;
+    margin-top: 30px;
+
+}
+.Contact{
+    margin-top: 40px;
+    padding-top: 5%;
+    text-align: center;
+    margin-bottom: 40px;
+    padding-bottom: 5%;
+    text-shadow: 0px 0px 10px wheat;
+    color: rgb(49, 46, 40);
+    font-size:80px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.ico-social-container{
+    background-color: whitesmoke;
+    border-radius: 50%;
+    
+    padding: 4px;
+    display: block;
+    border-radius: 50%;
+    box-shadow: 0px 0px 25px rgb(228, 227, 219);
+    height: 70px;
+    width: 70px;
+}
+.ico-social{
+    height: 60px;
+    width: 60px;
+    
+   
+}
+.mail{
+    background-color: rgb(216, 214, 214);
+    border-radius: 50%;
+    padding: 5.5px;
+    display: block;
+    box-shadow: 0px 0px 25px rgb(228,227,219);
+    height: 70px;
+    width: 70px;
+    
+}
